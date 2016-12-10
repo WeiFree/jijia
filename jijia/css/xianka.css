@@ -1,0 +1,326 @@
+body {
+	background-color: #000000;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.header {
+	position: relative;
+	z-index: 111;
+	width: 100%;
+	margin-bottom: -20px;
+}
+
+.jijia_nav {
+	border-radius: 0;
+	border: none;
+	height: 66px;
+	background-color: rgba(28, 28, 28, .8);
+}
+
+.jijia_nav_logo {
+	padding: 0;
+	padding-right: 80px;
+}
+
+.jijia_nav_logo img {
+	width: 75%;
+}
+
+.dropdown {
+	border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+	color: white;
+	background: none;
+}
+
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+	background: none;
+	color: white;
+}
+
+.header .dropdown:hover {
+	background: none;
+}
+
+.jijia_nav .navbar-collapse {
+	border: none;
+}
+
+.jijia_nav .navbar-collapse {
+	box-shadow: none;
+}
+
+@media screen and (max-width:768px) {
+	.jijia_navbar_nav {
+		border-top: none;
+		padding: 0;
+		margin-top: 15px;
+	}
+	.jijia_nav .navbar-collapse {
+		margin-top: 16px;
+		background-color: rgba(0, 0, 0, .8);
+		;
+	}
+}
+
+.jijia_nav .navbar-form {
+	border: none;
+	box-shadow: none;
+}
+
+@media (max-width: 988px) {
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus {
+		color: #fff;
+		background-color: transparent;
+	}
+}
+
+.jijia_navbar_nav .dropdown .dropdown-menu {
+	margin-top: 4px;
+	background-color: #000000;
+	width: 100%;
+}
+
+.dropdown_menu {
+	position: absolute;
+	background-color: rgba(0, 0, 0, .8);
+	top: 66px;
+	left: 0;
+	width: 100%;
+}
+
+.dropdown_menu div img {
+	width: 120px;
+}
+
+.cp-box {
+	margin-top: 25px;
+}
+
+.dropdown_menu div .media .media-body a {
+	color: #fff;
+	font-size: 12px;
+}
+
+.dropdown_menu div .media .media-body a:hover {
+	color: #31B0D5;
+	text-decoration: none;
+}
+
+.dropdown_menu div .media .media-body .sp a {
+	font-size: 10px;
+	color: #666;
+}
+
+.jijia_cp,
+.jijia_dj {
+	display: none;
+}
+
+.carousel-inner .pc {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.carousel-inner .pc img {
+	width: 100%;
+	height: 100%;
+}
+
+.lunbo .carousel-indicators .active {
+	background-color: #2AABD2;
+}
+
+
+/*chanpin*/
+
+.xianka-cp-nav {
+	margin-right: 20px;
+}
+
+.xianka-cp-nav ul li {
+	height: 30px;
+	list-style: none;
+	line-height: 30px;
+	text-align: left;
+	width: 100%;
+	min-width: 150px;
+	border-bottom: 1px solid white;
+}
+
+.bg {
+	background: url(../img/xianka/Arrow_Down.png) no-repeat center right;
+}
+
+.bgtop {
+	background: url(../img/xianka/Arrow_up.png) no-repeat center right;
+}
+
+.xianka-cp-nav ul li a {
+	color: white;
+	display: block;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.xianka-cp-nav ul li a:hover {
+	color: orangered;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+.bg .dropdown-menu {
+	background-color: #080808;
+	width: 100%;
+}
+
+.newsbox h3 {
+	color: white;
+	font-weight: bold;
+}
+
+.rel {
+	position: relative;
+}
+
+.news div {
+	margin-bottom: 30px;
+}
+
+.news div img {
+	border: 1px solid #333333;
+	width: 100%;
+}
+
+.news div a {
+	display: block;
+}
+
+.news .news-more {
+	margin-bottom: 0;
+	padding-top: 5px;
+	padding-left: 18px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	color: #C0C0C0;
+	height: 50px;
+	background-color: rgba(0, 0, 0, .5);
+}
+
+.news .news-more a {
+	display: inline-block;
+}
+
+.news-more .news-pic {
+	cursor: pointer;
+	float: right;
+	padding-right: 15px;
+	width: 80px;
+	height: 25px;
+}
+
+.news-more .news-pic img {
+	width: 100%;
+	border: none;
+	height: 100%;
+}
+
+.little-nav {
+	color: white;
+	z-index: 12354;
+	width: 200px;
+	height: 100%;
+}
+
+.little-nav li {
+	list-style: none;
+}
+
+.little-nav .dropdown a {
+	display: block;
+}
+
+.main {
+	width: 100%;
+}
+
+.main_left {
+	width: 200px;
+	float: left;
+}
+
+.main_right {
+	width: 94%;
+	float: right;
+}
+
+.footer {
+	background: url(../img/index/fooybg.jpg) no-repeat top left;
+}
+
+.footer_box {
+	margin-top: 30px;
+}
+
+.footer_box ul li a {
+	color: #444444;
+}
+
+.footer_box ul li dt {
+	font-size: 14px;
+}
+
+.footer_box ul li dd {
+	font-size: 12px;
+}
+
+.footer_box ul li a.sp_red {
+	font-weight: bold;
+	color: red;
+}
+
+.copyright {
+	font-size: 14px;
+}
+
+.copyright a {
+	color: #444444;
+}
+
+.copyright a:hover {
+	color: #428BCA;
+}
+
+.guan-box {
+	position: relative;
+	overflow: hidden;
+}
+
+.guang {
+	display: block;
+	position: absolute;
+	width: 300px;
+	height: 100%;
+	top: 0;
+	left: -450px;
+	overflow: hidden;
+	transform: skewX(-30deg);
+	/*transition: left 1s linear 0s;*/
+	background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0)0, rgba(255, 255, 255, .8)50%, rgba(255, 255, 255, 0)100%);
+}

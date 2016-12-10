@@ -1,0 +1,97 @@
+.newsbox .row .line,
+.newsbox .row .tu {
+	width: 150px;
+	height: 25px;
+	line-height: 25px;
+	color: white;
+	font-weight: bold;
+	display: inline-block;
+	cursor: pointer;
+	padding-left: 42px;
+	background: url(../img/XTREMEGAMING/bytext_w.png) no-repeat center left;
+	background-size: contain;
+}
+
+.newsbox .row .tu {
+	background: url(../img/XTREMEGAMING/byimage_w.png) no-repeat center left;
+}
+
+.newsbox .row .line:hover,
+.newsbox .row .tu:hover {
+	color: orangered;
+}
+
+.newsbox .row .orangered {
+	color: orangered;
+}
+
+.xianka {
+	color: white;
+	margin-top: 30px;
+}
+
+.xianka2 div {
+	height: 310px
+}
+
+.xianka div div img {
+	width: 100%;
+}
+
+.xianka div img {
+	width: 100%;
+}
+
+.xianka2 {
+	border-bottom: 1px;
+}
+
+.block {
+	display: block;
+}
+
+.none {
+	display: none;
+}
+
+.fr {
+	float: right;
+}
+
+.xianka h4 {
+	color: white;
+	font-weight: bold;
+}
+
+.blod {
+	font-size: 20px;
+	font-weight: blod;
+}
+
+.xianka div p {
+	line-height: 10px;
+	color: white;
+	font-size: 10px;
+}
+
+.xianka div.bgline {
+	background: url(../img/XTREMEGAMING/xJEGbQAAAAASUVORK5CYII=.png) no-repeat bottom left;
+}
+
+.bijiao {
+	display: none;
+	position: fixed;
+	right: 0;
+	top: 50%;
+	width: 77px;
+	height: 53px;
+	z-index: 999;
+	background: url(../img/xianka/icon_comparenow.png) repeat scroll top left;
+}
+
+.bijiao p {
+	font-size: 25px;
+	padding-left: 45px;
+	line-height: 60px;
+	color: white;
+}

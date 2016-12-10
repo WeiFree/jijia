@@ -1,0 +1,100 @@
+{
+    "dateid":[{
+        "name":"GeForce ® GTX 1060 Xtreme Gaming 6G",
+        "pic":"1060",
+        "sp":"<p>采用 GEFORCE GTX 1060 显示芯片</p><p>双风扇 特殊的刀刃式扇叶造型</p><p>全面支持VR体验</p><p>1680万色客制化RGB灯光</p><p>TITAN X等级耐久用料</p><p>搭配XTREME Engine专用超频软件</p>",
+		"n":"<p>Boost: 1873 MHz / Base: 1645 MHz in OC mode</p><p>Boost: 1847 MHz / Base: 1620 MHz in Gaming mode</p>"
+ 
+    },
+   	{
+        "name":"GeForce ® GTX 1080 Xtreme Gaming Premium Pack 8G",
+        "pic":"1080",
+        "sp":"<p>风之力3X散热系统 3个10CM大风扇</p><p>Xtreme VR Link 提供更好的虚拟现实体验</p><p>1680万色RGB炫彩LED灯 </p><p>时尚酷炫金属背板 </p><p>高品质的耐久用料</p><p>Xtreme Engine超频软件 </p><p>Xtreme 系列升级为4年质保 (注册成为XTREME社区会员)</p>",
+		"n":"<p>Boost: 1936 MHz / Base: 1784 MHz in OC mode</p><p>Boost: 1898 MHz / Base: 1759 MHz in Gaming mode </p>"
+ 
+    },
+		{
+        "name":"GeForce ® GTX 1070 Xtreme Gaming",
+        "pic":"1070",
+        "sp":"<p>采用 GeForce® GTX 1070显示芯片 </p><p>风之力3X散热系统 3个10CM大风扇</p><p>1680万色RGB炫彩LED灯 </p><p>时尚酷炫金属背板 </p><p>Xtreme VR Link提供更好的VR体验</p><p>Xtreme Engine超频软件 </p><p>Xtreme 系列升级为4年质保 (注册成为XTREME社区会员)</p>",
+		"n":"<p>Boost: 1898 MHz / Base: 1695 MHz in OC mode </p><p>Boost: 1873 MHz / Base: 1670 MHz in Gaming mode</p>"
+ 
+    },
+	{
+        "name":"GeForce ® GTX 1080 Xtreme Gaming WATERFORCE 8G",
+        "pic":"1080_water",
+        "sp":"<p>水之力一体式散热系统</p><p>Xtreme VR Link 提供更好的虚拟现实体验</p><p>1680万色RGB炫彩LED灯 </p><p>时尚酷炫金属背板 </p><p>高品质的耐久用料</p><p>Xtreme Engine超频软件 </p><p>Xtreme 系列升级为4年质保 (注册成为XTREME社区会员)</p>",
+		"n":"<p>Boost: 1898 MHz / Base: 1695 MHz in OC mode </p><p>Boost: 1873 MHz / Base: 1670 MHz in Gaming mode</p>"
+ 
+    },
+    {
+        "name":"GeForce ® GTX 1080 Xtreme Gaming 8G",
+        "pic":"1080_X",
+        "sp":"<p>风之力3X散热系统 3个10CM大风扇</p><p>Xtreme VR Link 提供更好的虚拟现实体验</p><p>1680万色RGB炫彩LED灯 </p><p>时尚酷炫金属背板 </p><p>高品质的耐久用料</p><p>Xtreme Engine超频软件 </p><p>Xtreme 系列升级为4年质保 (注册成为XTREME社区会员)</p>",
+		"n":"<p>Boost: 1898 MHz / Base: 1695 MHz in OC mode </p><p>Boost: 1873 MHz / Base: 1670 MHz in Gaming mode</p>"
+ 
+    },
+    {
+        "name":"GV-N960XTREME C-4GD",
+        "pic":"960_c",
+        "sp":"<p>采用 NVIDIA GeForce GTX 960显示芯片</p><p>支持4K影像硬件解码(10bits HEVC)</p><p>新一代风之力双风扇正逆转设计 </p><p>支持软件一键超频 </p><p>1680万色可调炫酷RGB背光</p><p>PCB电路板保护镀膜涂层</p>",
+		"n":"<p>Boost:1241 MHz/ Base: 1177 MHz in OC Mode</p><p>Boost:1216 MHz/ Base: 1152 MHz in Gaming Mode</p>"
+ 
+    },
+    {
+        "name":"GV-N960XTREME-4GD",
+        "pic":"960",
+        "sp":"<p>采用 NVIDIA GeForce GTX 960显示芯片</p><p>支持4K影像硬件解码(10bits HEVC)</p><p>新一代风之力双风扇正逆转设计 </p><p>OC GURU软件一键超频</p><p>1680万色可调炫酷RGB背光</p><p>PCB板三防保护膜</p>",
+		"n":"<p>Boost: 1367 MHz/ Base: 1304 MHz in OC Mode </p><p>Boost: 1342 MHz/ Base: 1279 MHz in Gaming Mod</p>"
+ 
+    },
+    {
+        "name":"GV-NTITANXXTREME-12GD-B",
+        "pic":"gtx-titan",
+        "sp":"<p>采用 NVIDIA GeForce GTX TITANX芯片</p><p>风之力等效700W 散热</p><p>使用12GB GDDR5显存，采用384位内存管理接口</p><p>配置 Dual-link DVI-I / HDMI / DisplayPort*3</p><p>建议使用600W以上的电源 (需求一个8-PIN & 1个6-PIN的外接电源辅助线)</p>",
+		"n":"<p>Boost:1291 MHz/ Base: 1190 MHz in OC Mode</p><p>Boost:1266 MHz/ Base: 1165 MHz in Gaming Mode</p>"
+    },
+    {
+        "name":"GV-N98TXTREME-6GD",
+        "pic":"n98t",
+        "sp":"<p>采用 NVIDIA GeForce GTX 980 Ti芯片</p><p>风之力等效700W 散热</p><p>使用6GB GDDR5显存，采用384位内存管理接口</p><p>配置 Dual-link DVI-I / HDMI / DisplayPort*3</p><p>建议使用600W以上的电源 (需求一个8-PIN的外接电源辅助线)</p>",
+		"n":"<p>Boost:1342 MHz/ Base: 1241 MHz in OC Mode</p><p>Boost:1317 MHz/ Base: 1216 MHz in Gaming Mode</p>"
+    },
+    {
+        "name":"GV-N98TXTREME W-6GD",
+        "pic":"n98t_w",
+        "sp":"<p>采用 NVIDIA GeForce GTX 980 Ti芯片</p><p>一体式水冷散热系统</p><p>使用6GB GDDR5显存，采用384位内存管理接口</p><p>配置 Dual-link DVI-I / HDMI / DisplayPort*3</p><p>建议使用600W以上的电源 (需求一个8-PIN的外接电源辅助线)</p>",
+		"n":"<p>Boost:1342 MHz/ Base: 1241 MHz in OC Mode</p><p>Boost:1317 MHz/ Base: 1216 MHz in Gaming Mode</p>"
+    },
+    {
+        "name":"GV-N98TXTREME C-6GD",
+        "pic":"n98t_c",
+        "sp":"<p>采用 NVIDIA GeForce GTX 980 Ti芯片</p><p>风之力等效 700W散热效能</p><p>使用6GB GDDR5显存，采用384位内存管理接口</p><p>配置 Dual-link DVI-I / HDMI / DisplayPort*3</p><p>建议使用600W以上的电源 (需求一个8-PIN的外接电源辅助线)</p>",
+		"n":"<p>Boost:1114 MHz/ Base:1026 MHz in OC Mode</p><p>Boost:1075 MHz/ Base: 1000 MHz in Gaming Mode</p>"
+    },
+     {
+        "name":"GV-N980XTREME-4GD",
+        "pic":"n980",
+        "sp":"<p>采用 NVIDIA GeForce GTX 980芯片</p><p>风之力等效450W 散热</p><p>使用4GB GDDR5显存，采用256位元内存管理接口</p><p>配置 Dual-link DVI-I / HDMI / DisplayPort*3</p><p>建议使用600W以上的电源 (需求一个8-PIN的外接电源辅助线)</p>",
+		"n":"<p>Boost:1367 MHz/ Base: 1266 MHz in OC Mode</p><p>Boost:1342 MHz/ Base: 1241 MHz in Gaming Mode</p>"
+    },
+    {
+        "name":"GV-N980XTREME C-4GD",
+        "pic":"n980c",
+        "sp":"<p>采用 NVIDIA GeForce GTX 980芯片</p><p>风之力三风扇散热器</p><p>使用4GB GDDR5显存，采用256位元内存管理接口</p><p>配置 Dual-link DVI-I / HDMI / DisplayPort*3</p><p>建议使用600W以上的电源 (需求一个8-PIN的外接电源辅助线)</p>",
+		"n":"<p>Boost:1253 MHz/ Base:1152 MHz in OC Mode</p><p>Boost:1216 MHz/ Base: 1127 MHz in Gaming Mode</p>"
+    },
+    {
+        "name":"GV-N970XTREME-4GD",
+        "pic":"970",
+        "sp":"<p>采用 NVIDIA GeForce GTX 970芯片</p><p>风之力等效450W散热效能</p><p>使用4GB GDDR5显存，采用256位元内存管理接口</p><p>配置 Dual-link DVI-I / HDMI / DisplayPort*3</p><p>建议使用600W以上的电源 (需求一个8-PIN的外接电源辅助线)</p>",
+		"n":"<p>Boost:1367 MHz/ Base: 1215 MHz in OC Mode</p><p>Boost:1342 MHz/ Base: 1190 MHz in Gaming Mode</p>"
+    },
+     {
+        "name":"GV-N950XTREME-2GD",
+        "pic":"950",
+        "sp":"<p>采用 NVIDIA GeForce GTX 950芯片</p><p>使用2GB GDDR5显存，采用128位元内存管理接口</p><p>配置 Dual-link DVI-I / HDMI / DisplayPort*3</p><p>建议使用350W以上的电源</p>",
+		"n":"<p>Boost:1431 MHz/ Base:1228 MHz in OC Mode</p><p>Boost:1405 MHz/ Base: 1203 MHz in Gaming Mode</p>"
+    }
+	]
+}
